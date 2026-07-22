@@ -1,46 +1,56 @@
-# Website Foundation
+# Portfolio Website Foundation
 
-This folder contains the initial planning data for the first public portfolio pages.
+This folder contains the initial planning data for a bilingual personal portfolio website.
+
+## Purpose
+
+The website should present selected projects, technical capability, product thinking, and visual quality in a clear and credible form.
+
+It is not a sales page, pricing page, or agency landing page.
 
 ## Language model
 
-- English is the primary business and technical language.
-- Japanese versions are prepared for agency outreach and portfolio presentation.
-- Polish remains internal only unless a specific client requires it.
+- English is the primary language.
+- Japanese is available as a complete presentation layer.
+- Polish remains internal unless a specific project requires it.
 
 ## Initial page set
 
 1. Home
-2. Services
-3. Portfolio
-4. Case Study
-5. About
-6. Agency Partnership
-7. Contact
+2. Projects
+3. Project Detail / Case Study
+4. About
+5. Skills
+6. Contact
 
 ## Recommended production path
 
 - UX and interface design: Figma
 - Primary implementation: React / Next.js / TypeScript
-- Optional agency compatibility track: WordPress + Elementor
 - Motion assets: Lottie / dotLottie
+- Optional WordPress knowledge: Elementor
 
-## Core message
+## Portfolio focus
 
-### English
+The portfolio should demonstrate:
 
-ShinGiTai Digital provides reliable white-label frontend development, multilingual website delivery, and design-to-code implementation for agencies and product teams.
+- interface design quality,
+- frontend implementation,
+- responsive layouts,
+- product and systems thinking,
+- multilingual presentation,
+- clear technical documentation,
+- selected work from the ShinGiTai ecosystem and independent concepts.
 
-### Japanese
+## Presentation rule
 
-ShinGiTai Digitalは、制作会社およびプロダクトチーム向けに、ホワイトラベルのフロントエンド開発、多言語ウェブサイト制作、デザインからコードへの実装を提供します。
+Each project should include:
 
-## First objective
-
-Create a credible agency-facing portfolio that proves:
-
-- production-quality frontend capability,
-- clear delivery process,
-- English-first international collaboration,
-- Japanese-ready documentation and presentation,
-- maintainable code and responsive implementation.
+- project overview,
+- problem or objective,
+- role and contribution,
+- selected screens,
+- technology stack,
+- implementation notes,
+- current project status,
+- source code or demo where publication is appropriate.
