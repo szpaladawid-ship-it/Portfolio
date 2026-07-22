@@ -4,56 +4,86 @@
 
 ### English
 
-**Frontend delivery for agencies that need reliable execution.**
+**I design and build digital products, interfaces, and technical systems.**
 
-White-label React, Next.js, TypeScript, multilingual websites, and design-to-code implementation.
+Selected work across frontend development, AI tooling, product architecture, and the ShinGiTai ecosystem.
 
-Primary CTA: `Discuss a partnership`
-Secondary CTA: `View selected work`
+Primary CTA: `View projects`
+Secondary CTA: `About me`
 
 ### Japanese
 
-**確実な実装力を必要とする制作会社のためのフロントエンド開発。**
+**デジタルプロダクト、インターフェース、技術システムを設計・開発しています。**
 
-ホワイトラベル対応のReact、Next.js、TypeScript、多言語ウェブサイト、デザインからコードへの実装を提供します。
+フロントエンド開発、AIツール、プロダクト設計、ShinGiTaiエコシステムに関する制作実績を紹介します。
 
-Primary CTA: `パートナーシップについて相談する`
-Secondary CTA: `制作実績を見る`
+Primary CTA: `プロジェクトを見る`
+Secondary CTA: `プロフィール`
 
-## Trust statement
+## Introduction
 
 ### English
 
-English is the primary working language. Japanese-language materials, project documentation, and written communication can be prepared with translation support and careful review.
+I combine product thinking, visual direction, and implementation. My work focuses on turning complex ideas into structured, usable, and maintainable digital experiences.
 
 ### Japanese
 
-主な業務言語は英語です。日本語のプロジェクト資料、ドキュメント、書面でのコミュニケーションについても、翻訳支援と慎重な確認を行いながら対応可能です。
+プロダクト思考、ビジュアル設計、実装を組み合わせ、複雑なアイデアを整理された使いやすいデジタル体験へと形にします。
 
-## Services
+## Selected work
 
-- White-label frontend development
-- React and Next.js implementation
-- Responsive design-to-code delivery
-- Multilingual website structure
-- CMS integration
-- Website maintenance and iteration
+Initial categories:
 
-## Agency partnership section
+- Product interfaces
+- Dashboards and control systems
+- AI-assisted applications
+- Web experiences
+- Experimental concepts
+- ShinGiTai ecosystem projects
+
+## Featured project card structure
+
+Each card should contain:
+
+- project name,
+- short description,
+- role,
+- stack,
+- project status,
+- desktop or mobile preview,
+- link to case study.
+
+## Skills preview
+
+- React
+- Next.js
+- TypeScript
+- UI architecture
+- Responsive web development
+- Product documentation
+- AI-assisted workflows
+- Git and GitHub
+
+## Language note
 
 ### English
 
-Need extra frontend capacity without expanding your permanent team? ShinGiTai Digital can support selected projects under your agency brand, process, and delivery standards.
+English is the primary working language. Japanese versions of the portfolio and written materials are prepared with translation support and careful review.
 
 ### Japanese
 
-常勤チームを拡大せずにフロントエンド開発体制を強化したい制作会社向けに、ShinGiTai Digitalは貴社ブランド、進行方法、納品基準に合わせてプロジェクトを支援します。
+主な業務言語は英語です。ポートフォリオおよび書面資料の日本語版は、翻訳支援と慎重な確認を行いながら作成しています。
 
-## Planned proof points
+## Contact section
 
-- Selected portfolio projects
-- Before-and-after implementation examples
-- Responsive desktop and mobile views
-- Technical stack and architecture notes
-- Delivery workflow
-- GitHub repositories and live demos
+### English
+
+Interested in the work or a potential collaboration? Get in touch.
+
+CTA: `Contact`
+
+### Japanese
+
+制作内容や協業に関心がありましたら、お気軽にご連絡ください。
+
+CTA: `お問い合わせ`
