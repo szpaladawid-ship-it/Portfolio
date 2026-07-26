@@ -3,11 +3,11 @@
 ## Phase 1 — Foundation
 
 - [x] Initialize the public repository
-- [ ] Define portfolio information architecture
+- [x] Define portfolio information architecture
 - [ ] Select 4–5 strongest projects
 - [ ] Prepare screenshots and live-demo links
-- [ ] Standardize project descriptions
-- [ ] Establish repository quality rules
+- [x] Standardize project descriptions
+- [x] Establish repository quality rules
 
 ## Phase 2 — Case studies
 
@@ -15,7 +15,7 @@
 - [ ] Business operations dashboard case study
 - [ ] Premium corporate website demo
 - [ ] SaaS / AI landing page demo
-- [ ] Multilingual business website demo
+- [x] Multilingual business website case study — ShinGiTai Global
 
 Each case study should include:
 
@@ -25,12 +25,14 @@ Each case study should include:
 - technology stack,
 - responsive screenshots,
 - implementation notes,
+- quality and release evidence,
 - live demo,
-- repository link where appropriate.
+- repository link where appropriate,
+- limitations and current status.
 
 ## Phase 3 — Agency Partner Kit
 
-- [ ] Create public capability statement
+- [x] Create initial public capability statement — multilingual web delivery
 - [ ] Define white-label collaboration model
 - [ ] Prepare service scope
 - [ ] Prepare delivery workflow
